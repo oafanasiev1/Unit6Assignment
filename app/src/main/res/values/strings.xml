@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Unit6Assignment</string>
+    <string name="nameMakar">Makar</string>
+    <string name="phoneMakar">6129617887</string>
+    <string name="nameBrandon">Brandon</string>
+    <string name="phoneNrandon">2187804042</string>
+    <string name="nameJack">Jack</string>
+    <string name="phonejack">3202936097</string>
+
 </resources>
